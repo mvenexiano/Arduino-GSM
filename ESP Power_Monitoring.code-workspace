@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../ESP Power_Monitoring"
+		},
+		{
+			"name": "Power_Monitoring",
+			"path": "../Power_Monitoring"
+		},
+		{
+			"name": "Arduino GSM",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
